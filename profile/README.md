@@ -6,7 +6,7 @@ Welcome to HAVOC Development - where we breathe code, innovate solutions, and tu
 
 ## About Us
 
-HAVOC Development was founded in 2022 by Oti Enrique with a vision to "Build efficient infrastructure for ". We specialize in App Development, Front-End management, Website Development, and Web App Development.
+HAVOC Development was founded in 2022 by Enrique Oti with a vision to "Build efficient infrastructure for ". We specialize in App Development, Front-End management, Website Development, and Web App Development.
 
 ## Our Mission
 
