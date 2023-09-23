@@ -23,9 +23,9 @@ Our mission is to make efficient systems that save time for our users.
 
 Here are some of our flagship projects:
 
-- **[FalconNet]**: Accountability app for the USAFA Cadet Wing.
-- **[FalconNet]**: Management of analytics from the Accountability app. 
-- **[iGemWiki]**: Competition website for Bio-Research team. 
+- **[FalconNet]**: Accountability app for the USAFA Cadet Wing. [FalconNet](https://github.com/USAFA-HAVOC/FalconNet)
+- **[FalconNest]**: Management of analytics from the Accountability app. [FalconNest](https://github.com/USAFA-HAVOC/FN-Dashboard)
+- **[iGEMWiki]**: Competition website for Bio-Research team. [iGEM Wiki](https://github.com/USAFA-HAVOC/iGemWiki)
 
 _For the complete list of our projects, check out our [Projects Page](link_to_projects_page)._
 
